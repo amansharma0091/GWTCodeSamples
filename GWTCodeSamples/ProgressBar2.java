@@ -1,4 +1,3 @@
-package com.torrid.gwt.pollingApp.client.view;
 
 import com.google.gwt.canvas.client.Canvas;
 import com.google.gwt.canvas.dom.client.Context2d;
